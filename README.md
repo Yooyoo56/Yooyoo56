@@ -11,12 +11,7 @@
 <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 
-### Fun facts 🔮
 
-- Bachelor degree in International studies.
-- Master degree in Marketing.
-- Voyage to 25 countries 
-- Speak 4 languages : Korean, English, French, Russian
 
 <!--
 **Yooyoo56/Yooyoo56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,6 +21,12 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on C project at Ecole42 
 - 🌱 I’m currently learning C, JavaScript, Nodejs, MongoDB, Mongoose.. 
 
+### Fun facts 🔮
+
+- Bachelor degree in International studies.
+- Master degree in Marketing.
+- Voyage to 25 countries 
+- Speak 4 languages : Korean, English, French, Russian
 
 
  

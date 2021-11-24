@@ -1,6 +1,5 @@
 ### Hi there 👋
-
- I’m currently working on C projects at Ecole42. 
+ 
  
 
 ### Currently learning 🔭

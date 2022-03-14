@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hellow world! 👋
 
 I'm a student of Ecole 42 ( currently learning C and C++).
 

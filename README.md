@@ -2,7 +2,7 @@
 
 I'm a student of Ecole 42 ( currently learning C and C++).
 
-Besides, I'm wokring on some JS & react project on my side. 
+Besides, I'm wokring on some JS & react Full-stack project on my side. 
  
 
 ### Currently learning 🔭

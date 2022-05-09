@@ -23,7 +23,7 @@ Besides, I'm wokring on some JS & react Full-stack project on my side.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on C project at Ecole42 
-- 🌱 I’m currently learning C, JavaScript, Nodejs, MongoDB, Mongoose.. 
+- 🌱 I’m currently learning C, JavaScript, Nodejs, MongoDB, Mongoose
 
 ### Fun facts 🔮
 

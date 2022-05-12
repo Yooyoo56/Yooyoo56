@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 - Voyage to 25 countries 
 - Speak 4 languages : Korean, English, French, Russian
 
-
  
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
